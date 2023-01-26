@@ -1,6 +1,3 @@
-
-
-
 @media screen and (min-width: 1070px) {
     .coord_col {
         width: 8vw;
@@ -83,22 +80,6 @@
     }
 }
 
-#table-res {
-
-    /*float: right;*/
-    /*width: 73%;*/
-    /*text-align: center;*/
-    /*height: 100px;*/
-    /*overflow-y: scroll;*/
-    /*overflow-x: scroll;*/
-    /*border: none;*/
-}
 
 
 
-/*#table-res.tbody {*/
-/*    display: block;*/
-/*    height: 125%;*/
-/*    overflow-y: scroll;*/
-/*    overflow-x: scroll;*/
-/*}*/
